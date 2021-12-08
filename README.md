@@ -1,13 +1,15 @@
 # My fork of Toykeeper's anduril2 repo from launchpad
 
-anduril2 is an open source flashlight firmware developed for various specialty flashlights.
-
-[link to upstream repo](https://code.launchpad.net/~toykeeper/flashlight-firmware/anduril2)
+anduril2 is an open source flashlight firmware developed for various specialty flashlights. [link to upstream repo](https://code.launchpad.net/~toykeeper/flashlight-firmware/anduril2)
 
 ***changes made so far***
 
  - enabled SOS mode in blink modes
  - slightly tweaked default SOS mode timings
+
+---
+
+# Original README:
 
 ---
 
