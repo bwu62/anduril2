@@ -16,7 +16,7 @@ FAIL=0
 PASSED=''
 FAILED=''
 
-for TARGET in cfg-*.h ; do
+for TARGET in $(ls cfg-emisar-d4v2.h cfg-noctigon-kr4-nofet.h) ; do
 
   # maybe limit builds to a specific pattern
   if [ ! -z "$SEARCH" ]; then
